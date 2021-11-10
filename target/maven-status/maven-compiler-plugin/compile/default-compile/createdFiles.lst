@@ -1,0 +1,6 @@
+web\ServletControlador.class
+Datos\Conexion.class
+dominio\Usuario.class
+Datos\Dao.class
+Datos\encriptar.class
+dominio\CuentasPlataformas.class
